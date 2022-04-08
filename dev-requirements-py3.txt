@@ -11,7 +11,7 @@ autopep8==1.5.4
 mypy==0.782
 networkx==2.5
 gitpython==3.1.11
-beautifulsoup4==4.9.3
+beautifulsoup4==4.11.0
 pypdf2==1.26.0
 freezegun==0.3.12
 vulture==1.5
